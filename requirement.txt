@@ -1,0 +1,4 @@
+This is just a sample requirements for a dummy project.
+Emogy
+colors
+Font size
