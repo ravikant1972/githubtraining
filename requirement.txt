@@ -3,6 +3,3 @@ Emogy
 colors
 Font size
 Aad dark mode
-Payment Added
-Paid
-Received
